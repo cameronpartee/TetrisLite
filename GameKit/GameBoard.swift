@@ -14,6 +14,7 @@ struct GameBoard: View {
             ZStack {
                 // background color
                 Color.orange.opacity(0.35)
+                
                 VStack {
                     // Place avatars
                     // from this level we are passing data back
