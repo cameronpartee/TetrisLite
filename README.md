@@ -1,6 +1,6 @@
 # TetrisLite
 
-🧩 Make a Game Design Assignment, Tap on the pieces to solve the puzzle 
+Make a Game Design Assignment, Tap on the pieces to solve the puzzle 
 
 # Screenshots
 
